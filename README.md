@@ -65,7 +65,7 @@ query {
   users {
     id
     name
-    country
+    email
   }
 }
 ```
