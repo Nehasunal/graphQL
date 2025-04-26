@@ -31,14 +31,14 @@ cd <project-folder>
 ```bash
 npm install
 ```
-## ⚙️ Environment Variable
+## 3. Environment Variable
 
 Create a `.env` file and add:
 
 ```env
 APP_SERVER=http://localhost
 ```
-## Start Server
+## 4. Start Server
 ```bash
 node server.js
 ```
